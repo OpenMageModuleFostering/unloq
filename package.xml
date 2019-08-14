@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
 	<name>UNLOQ</name>
-	<version>0.1.0</version>
+	<version>1.0.0</version>
 	<stability>stable</stability>
    <channel>community</channel>
 	<license uri="http://opensource.org/licenses/OSL-3.0.php">OSL</license>
