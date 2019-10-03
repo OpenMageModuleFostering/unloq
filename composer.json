@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/UNLOQ",
+    "name": "OpenMageModuleFostering\/UNLOQ",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "UNLOQ.io Passwordless authentication",
     "authors": [
-    {
-        "name": "Adrian Bunta",
-        "email": "adrian@unloq.io"
-    }
-],
+        {
+            "name": "Adrian Bunta",
+            "email": "adrian@unloq.io"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
